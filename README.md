@@ -11,3 +11,4 @@ A simple React starter that's perfect for messing around. Comes with Babel, Emot
 
 If your browser does not automatically open, visit `http://localhost:8080`
 # Spotify-React-Clone
+# Spotify-React-Clone
